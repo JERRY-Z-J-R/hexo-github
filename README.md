@@ -121,7 +121,7 @@ $ git config --list
 # user.name=xxx
 # user.email=xxx@xxx.com
 
-## 检查已有的配置信息
+# 检查已有的配置信息
 # 若配置信息中出现正确用户名及邮箱即为配置成功
 ```
 
@@ -302,8 +302,8 @@ Hexo 支持主题自定义，并且有一个活跃的 [主题社区](https://hex
 
 ## 7.2 使用 Hexo 插件
 
-Hexo 是一个支持插件的可扩展框架，具体插件类型及安装方法请前往 [Hexo 官网查看](https://hexo.io/plugins/) 或者 搜索引擎求助。
+Hexo 是一个支持插件的可扩展框架，具体插件类型及安装方法请前往 [Hexo 官网查看](https://hexo.io/plugins/) 或在搜索引擎求助。
 
 ## 7.3 帮助文档
 
-Hexo 提供了全面的 Hexo [使用文档](https://hexo.io/docs/index.html)（有中文版）及 [API 文档](https://hexo.io/api/)，在使用及开发优化 Hexo 的过程中，建议以官方文档为基准。
+Hexo 提供了全面的 Hexo [使用文档](https://hexo.io/docs/index.html)（中英文版）及 [API 文档](https://hexo.io/api/)，在使用及开发优化 Hexo 的过程中，建议以官方文档为基准。
