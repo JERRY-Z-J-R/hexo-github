@@ -10,17 +10,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [JERRY-Hexo-GitHub](#jerry-hexo-github)
 - [一、前言](#%E4%B8%80%E5%89%8D%E8%A8%80)
-  - [1.1 什么是 Hexo?](#11-%E4%BB%80%E4%B9%88%E6%98%AF-hexo)
-  - [1.2 什么是 GitHub?](#12-%E4%BB%80%E4%B9%88%E6%98%AF-github)
-  - [1.3 什么是静态网站?](#13-%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99)
+  - [1.1 什么是 Hexo？](#11-%E4%BB%80%E4%B9%88%E6%98%AF-hexo)
+  - [1.2 什么是 GitHub？](#12-%E4%BB%80%E4%B9%88%E6%98%AF-github)
+  - [1.3 什么是静态网站？](#13-%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99)
   - [1.4 Hexo 与 GitHub 搭配建站的优缺点](#14-hexo-%E4%B8%8E-github-%E6%90%AD%E9%85%8D%E5%BB%BA%E7%AB%99%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9)
 - [二、安装 Git](#%E4%BA%8C%E5%AE%89%E8%A3%85-git)
   - [2.1 什么是 Git？](#21-%E4%BB%80%E4%B9%88%E6%98%AF-git)
   - [2.2 Git 的下载安装与配置](#22-git-%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
 - [三、安装 Node.js](#%E4%B8%89%E5%AE%89%E8%A3%85-nodejs)
-  - [3.1 什么是 Node.js?](#31-%E4%BB%80%E4%B9%88%E6%98%AF-nodejs)
+  - [3.1 什么是 Node.js？](#31-%E4%BB%80%E4%B9%88%E6%98%AF-nodejs)
   - [3.2 Node.js 的下载安装与配置](#32-nodejs-%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
 - [四、安装 Hexo](#%E5%9B%9B%E5%AE%89%E8%A3%85-hexo)
   - [4.1 Hexo 的下载安装与配置](#41-hexo-%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
